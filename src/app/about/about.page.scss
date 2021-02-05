@@ -1,0 +1,23 @@
+#container {
+    text-align: center;
+
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 30%;
+    transform: translateY(-50%);
+  }
+
+  #container strong {
+    font-size: 20px;
+    line-height: 26px;
+  }
+
+  #about-card {
+    padding-top: 20px;
+    background-color: azure;
+  }
+
+  ion-icon {
+    font-size: 100px;
+  }
